@@ -92,9 +92,9 @@ Uno de los conceptos clave es el principio de superposición. En la física cuá
 
 Este principio de superposición es fundamental para comprender cómo funcionan los qubits en la computación cuántica. 
 
-El principio de superposición:
+### El principio de superposición me recuerda lo de la paradoja del gato de Schrödinger
 
-Exacto, la paradoja del gato de Schrödinger es un famoso ejemplo que ilustra el principio de superposición en la física cuántica. En esta paradoja, se imagina un gato encerrado en una caja junto con una partícula subatómica y un veneno. Según las leyes cuánticas, la partícula está en un estado de superposición, lo que significa que está "viva" y "muerta" al mismo tiempo hasta que se mida.
+La paradoja del gato de Schrödinger es un famoso ejemplo que ilustra el principio de superposición en la física cuántica. En esta paradoja, se imagina un gato encerrado en una caja junto con una partícula subatómica y un veneno. Según las leyes cuánticas, la partícula está en un estado de superposición, lo que significa que está "viva" y "muerta" al mismo tiempo hasta que se mida.
 
 **Ejemplo:** Si abres la caja y observas la partícula, colapsará en uno de los estados, lo que determinará si el gato está vivo o muerto. Hasta que no se haga la medición, el gato está en una superposición de estados.
 
