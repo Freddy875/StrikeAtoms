@@ -82,9 +82,9 @@
 
 ---
 
-1. Introducción a la Computación Cuántica
+## 1. Introducción a la Computación Cuántica
 
-## Fundamentos de la física cuántica
+### Fundamentos de la física cuántica
 
 Uno de los conceptos clave es el principio de superposición. En la física cuántica, una partícula puede existir en múltiples estados al mismo tiempo. Esto significa que no tiene un estado definido hasta que se mide.
 
