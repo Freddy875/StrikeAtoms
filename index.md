@@ -80,6 +80,8 @@
 - Tendencias y avances recientes
 - Impacto en la informática y otras disciplinas
 
+![image](https://github.com/Freddy875/StrikeAtoms/assets/60365437/7fa0f96e-9e9a-4fd9-8e54-8008fd5be524)
+
 ---
 
 ## 1. Introducción a la Computación Cuántica
@@ -99,5 +101,7 @@ La paradoja del gato de Schrödinger es un famoso ejemplo que ilustra el princip
 **Ejemplo:** Si abres la caja y observas la partícula, colapsará en uno de los estados, lo que determinará si el gato está vivo o muerto. Hasta que no se haga la medición, el gato está en una superposición de estados.
 
 La paradoja del gato de Schrödinger resalta la naturaleza extraña y no intuitiva de la física cuántica, donde las partículas pueden existir en múltiples estados a la vez hasta que se observen. 
+
+
 
 
