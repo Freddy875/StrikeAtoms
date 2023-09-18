@@ -101,3 +101,6 @@ La paradoja del gato de Schrödinger es un famoso ejemplo que ilustra el princip
 **Ejemplo:** Si abres la caja y observas la partícula, colapsará en uno de los estados, lo que determinará si el gato está vivo o muerto. Hasta que no se haga la medición, el gato está en una superposición de estados.
 
 La paradoja del gato de Schrödinger resalta la naturaleza extraña y no intuitiva de la física cuántica, donde las partículas pueden existir en múltiples estados a la vez hasta que se observen. 
+
+![GatoDeSchrodinger.png](GatoDeSchrodinger.png "Gato de Schrödinger")
+
