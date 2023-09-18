@@ -79,3 +79,25 @@
 
 - Tendencias y avances recientes
 - Impacto en la informática y otras disciplinas
+
+![QuantumFer.png](QuantumFer.png)
+
+---
+
+## 1. Introducción a la Computación Cuántica
+
+### Fundamentos de la física cuántica
+
+Uno de los conceptos clave es el principio de superposición. En la física cuántica, una partícula puede existir en múltiples estados al mismo tiempo. Esto significa que no tiene un estado definido hasta que se mide.
+
+**Ejemplo:** Imagina una moneda cuántica que está en un estado de superposición, lo que significa que está en un estado de "cara" y "cruz" simultáneamente. Solo cuando la mides, se colapsa en uno de los estados, como "cara".
+
+Este principio de superposición es fundamental para comprender cómo funcionan los qubits en la computación cuántica. 
+
+### El principio de superposición me recuerda lo de la paradoja del gato de Schrödinger
+
+La paradoja del gato de Schrödinger es un famoso ejemplo que ilustra el principio de superposición en la física cuántica. En esta paradoja, se imagina un gato encerrado en una caja junto con una partícula subatómica y un veneno. Según las leyes cuánticas, la partícula está en un estado de superposición, lo que significa que está "viva" y "muerta" al mismo tiempo hasta que se mida.
+
+**Ejemplo:** Si abres la caja y observas la partícula, colapsará en uno de los estados, lo que determinará si el gato está vivo o muerto. Hasta que no se haga la medición, el gato está en una superposición de estados.
+
+La paradoja del gato de Schrödinger resalta la naturaleza extraña y no intuitiva de la física cuántica, donde las partículas pueden existir en múltiples estados a la vez hasta que se observen. 
